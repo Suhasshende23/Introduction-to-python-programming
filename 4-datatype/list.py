@@ -1,0 +1,9 @@
+fruits = ["apple", "banana", "cherry", "mango"]
+
+for i in range(len(fruits)):
+    print(fruits[i])
+
+fruits = ["apple", "banana", "cherry", "mango"]
+
+for fruit in fruits:
+    print(fruit)
